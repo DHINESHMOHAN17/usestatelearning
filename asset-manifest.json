@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/usestatelearning/static/css/main.2df78031.css",
+    "main.js": "/usestatelearning/static/js/main.23cf7569.js",
+    "index.html": "/usestatelearning/index.html",
+    "main.2df78031.css.map": "/usestatelearning/static/css/main.2df78031.css.map",
+    "main.23cf7569.js.map": "/usestatelearning/static/js/main.23cf7569.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2df78031.css",
+    "static/js/main.23cf7569.js"
+  ]
+}
